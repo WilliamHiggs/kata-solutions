@@ -1,0 +1,5 @@
+Test.assertEquals(findSum(1,3,5), 9, "1 + 3 + 5 = 9")
+Test.assertEquals(findSum(0,3,9,2), 14, "0+3+9+2 = 14")
+Test.assertEquals(findSum(), 0, "If no arguments, function should return 0")
+Test.assertEquals(findSum(1,-2,4) , -1, "If negative arguments are passed, function should return -1")
+Test.assertEquals(findSum(0), 0, "The sum of 0 is 0")
