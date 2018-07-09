@@ -1,9 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Stop gninnipS My sdroW!
- - Opposite number
- - Even or Odd
  - Reversed sequence
  - Remove String Spaces
  - Simple multiplication
@@ -16,5 +13,7 @@
  - ES2015: Get the real length of string
  - Return the day
  - Watermelon
+ - Even or Odd - Which is Greater?
+ - Calculate average
  ____
  
