@@ -1,8 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Reversed sequence
- - Remove String Spaces
  - Simple multiplication
  - Fake Binary
  - Century From Year
@@ -15,5 +13,8 @@
  - Watermelon
  - Even or Odd - Which is Greater?
  - Calculate average
+ - Remove Duplicate Words
+ - Control the Beast
+ - Managing Events in ReactJS
  ____
  
