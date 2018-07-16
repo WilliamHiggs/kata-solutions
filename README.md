@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Fake Binary
  - Century From Year
  - Convert a string to an array
  - Help Bob count letters and digits
