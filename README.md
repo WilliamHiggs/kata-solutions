@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Convert a string to an array
  - Help Bob count letters and digits
  - Grasshopper - Summation
  - COFFEE!
@@ -13,5 +12,7 @@
  - Remove Duplicate Words
  - Control the Beast
  - Managing Events in ReactJS
+ - Mexican Wave
+ - Bit Counting
  ____
  
