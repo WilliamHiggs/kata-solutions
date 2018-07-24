@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Help Bob count letters and digits
  - Grasshopper - Summation
  - COFFEE!
  - ES2015: Get the real length of string
@@ -14,5 +13,6 @@
  - Managing Events in ReactJS
  - Mexican Wave
  - Bit Counting
+ - Drone Fly-by
  ____
  
