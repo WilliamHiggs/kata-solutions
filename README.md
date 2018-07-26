@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Grasshopper - Summation
  - COFFEE!
  - ES2015: Get the real length of string
  - Return the day
@@ -14,5 +13,7 @@
  - Mexican Wave
  - Bit Counting
  - Drone Fly-by
+ - Basic variable assignment
+ - Function 1 - hello world
  ____
  
