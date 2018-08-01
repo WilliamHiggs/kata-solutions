@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - COFFEE!
  - ES2015: Get the real length of string
  - Return the day
  - Watermelon
@@ -15,5 +14,8 @@
  - Drone Fly-by
  - Basic variable assignment
  - Function 1 - hello world
+ - Convert a Boolean to a String
+ - DNA to RNA Conversion
+ - Beginner - Lost Without a Map
  ____
  
