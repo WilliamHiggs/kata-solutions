@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - ES2015: Get the real length of string
  - Return the day
  - Watermelon
  - Even or Odd - Which is Greater?
