@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Return the day
  - Watermelon
  - Even or Odd - Which is Greater?
  - Calculate average
