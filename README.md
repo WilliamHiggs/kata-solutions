@@ -1,7 +1,6 @@
 # kata-solutions
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Calculate average
  - Remove Duplicate Words
  - Control the Beast
  - Managing Events in ReactJS
