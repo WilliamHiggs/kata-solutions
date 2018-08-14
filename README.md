@@ -1,7 +1,6 @@
 # kata-solutions :scroll:
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Remove Duplicate Words
  - Control the Beast
  - Managing Events in ReactJS
  - Mexican Wave
