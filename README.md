@@ -1,7 +1,6 @@
 # kata-solutions :scroll:
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Control the Beast
  - Managing Events in ReactJS
  - Mexican Wave
  - Bit Counting
@@ -12,4 +11,3 @@
  - DNA to RNA Conversion
  - Beginner - Lost Without a Map
  ____
- 
