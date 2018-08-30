@@ -1,7 +1,6 @@
 # kata-solutions :scroll:
 (SPOILER ALERT!) Solutions to Codewars challenges. I'll be adding and refactoring monthly.
 ## Still to add:
- - Convert a Boolean to a String
  - DNA to RNA Conversion
  - Beginner - Lost Without a Map
  - My head is at the wrong end!
