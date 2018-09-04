@@ -6,4 +6,6 @@
  - Find the smallest integer in the array
  - Multi Line Task++: Hello World
  - Count Odd Numbers below n
+ - String Repeat
+ - Make the Deadfish Swim
  ____
